@@ -406,6 +406,6 @@
   </head>
   <body>
     <div id="pano"></div>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLb0B0fgzUa6qypWO9qbmWdj8NICvpL08&callback=initialize&libraries=geometry,drawing,places&v=weekly" async></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=MY_API_KEY&callback=initialize&libraries=geometry,drawing,places&v=weekly" async></script>
   </body>
   </html>
